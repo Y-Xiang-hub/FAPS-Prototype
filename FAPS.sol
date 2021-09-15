@@ -1,4 +1,8 @@
-//Remix: Compiler 0.4.25
+// @Author: Yuexin Xiang
+// @Email: yuexin.xiang@cug.edu.cn
+
+
+//Remix Compiler 0.4.25
 pragma solidity >=0.4.22 <0.7.0;
 
 contract Verification{
