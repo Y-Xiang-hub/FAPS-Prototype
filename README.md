@@ -1,4 +1,4 @@
-# FAPS-Scheme
+# FAPS Scheme
 
 This is the prototype of [our work](https://www.sciencedirect.com/science/article/abs/pii/S0020025520308823). If you find our code is useful for your research, please considering citing it as:
 
