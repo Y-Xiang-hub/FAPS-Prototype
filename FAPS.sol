@@ -11,7 +11,7 @@ contract Verification{
     function Verify_String(bytes memory signed_string) public returns (address){
     
         //This is a signed string data
-		//e.g. bytes memory signed_string =hex"..."
+	//e.g. bytes memory signed_string =hex"..."
         bytes32 data_h;
         //Divide the data into three parts
         bytes32 r = BytesToBytes32(Slice(signed_string,0,32));
