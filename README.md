@@ -12,4 +12,4 @@ This is the prototype of [our work](https://www.sciencedirect.com/science/articl
           doi = {https://doi.org/10.1016/j.ins.2020.08.116}
         }
 
-If you have any questions please feel free to contact me at yuexin.xiang@cug.edu.cn.
+If you have any questions please feel free to contact me at Yuexin.Xiang@monash.edu.
